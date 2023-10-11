@@ -1,5 +1,6 @@
 # wsl2 Ubuntu20.04LTSにおけるLinux環境の構築についてまとめる  
 usernameと書かれたところは自分のLinuxの名前に個人で変更  
+まだ未完成　今後完成させるかも
 ## 作りたい環境  
 windows11  
 wsl2  
