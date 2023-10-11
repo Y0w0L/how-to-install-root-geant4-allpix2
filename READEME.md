@@ -22,7 +22,7 @@ Linux環境ごとにシャットダウンするコマンドもネットに調べ
 
 ## 必要なパッケージをダウンロードする
 足りないのがあった時はエラー文から適宜ダウンロード
-sudo apt update
+```sudo apt update```
 sudo apt upgrade
 sudo apt install build-essential
 sudo apt qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
